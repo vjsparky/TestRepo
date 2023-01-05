@@ -1,4 +1,6 @@
 print("Hello this is vijay")
 
-msg = "second msg"
-print(msg)
+msg1 = "second msg"
+
+msg2 = "Third  msg"
+print(msg1,msg2)
